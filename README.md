@@ -31,7 +31,22 @@ artifact-based validation.
 • Not self-authorizing  
 • Not a control system  
 • Not a BuzzGuardian node  
+## Relationship to AGI
 
+Coreliptic Intelligence is **not** Artificial General Intelligence (AGI),
+nor does it attempt to simulate human cognition, autonomy, or general agency.
+
+This system is:
+• Deterministic
+• Artifact-governed
+• Non-autonomous
+• Human-authority bounded
+
+Coreliptic Intelligence exists as a **governance framework for intelligence outputs**,
+not as an intelligence that acts on its own.
+
+AGI seeks capability.
+Coreliptic Intelligence enforces accountability.
 ---
 
 ## Core Principles (ADR-0002)

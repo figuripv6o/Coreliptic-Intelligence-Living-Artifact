@@ -1,20 +1,21 @@
-Abstract
-This paper introduces Coreliptic Intelligence, a governance-first intelligence model in which reasoning systems are constrained to operate exclusively as auditable artifacts. Unlike agentic or autonomous AI systems, Coreliptic Intelligence prohibits self-authorizing execution, preserving human authority and traceability across all decision surfaces.
-Contributions
-Defines Living Artifact as a formal system class
-Introduces Artifact-Loop governance
-Separates intelligence from authority
-Establishes Trust-Zero AI as a structural requirement
-System Model
-Deterministic reasoning core
-Guardian-mediated review
-Immutable artifact trail
-Human final authority
-Use Domains
-Public-sector analytics
-Regulated enterprise systems
-Educational datasets
-AI governance research
-Conclusion
-Intelligence does not require autonomy to be useful.
-Trust requires evidence — not capability.
+## Submission Title
+Coreliptic Intelligence: A Trust-Zero Framework for Auditable AI Systems
+
+## Submitting Entity
+Buzzomatic Intelligence LLC
+
+## Summary
+This submission proposes a governance-first classification of AI systems
+designed for auditability, human authority preservation, and reproducibility.
+
+## Key Principles
+- No implicit execution authority
+- Mandatory artifact traceability
+- Deterministic reasoning
+- Human-in-the-loop enforcement
+
+## Intended Use
+- Academic research
+- Public-sector AI
+- Ethical AI standards
+- Education-first intelligence systems

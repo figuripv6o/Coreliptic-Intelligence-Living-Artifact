@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit — Coreliptic Intelligence Living Artifact (ADR-0002)"
+git branch -M main
+git remote add origin git@github.com:figuripv6o/Coreliptic-Intelligence-Living-Artifact.git
+git push -u origin main

@@ -1,0 +1,154 @@
+ADR-0002
+Doctrine of Coreliptic Intelligence
+Canonical Artifact Set
+Authority: Fredrick D. Flowers
+Entity: Buzzomatic Intelligence LLC
+Status: LOCKED • FDF Certified™ • Trust-Zero
+I. BuzzTopia Dictionary Entry (Formal)
+Coreliptic Intelligence
+(noun, doctrine-class intelligence)
+A governed intelligence paradigm in which reasoning exists only as auditable artifacts, authority is explicitly bounded, and no cognitive output is valid unless it can be traced, reviewed, and reproduced.
+Key Properties
+Artifact-first cognition
+Deterministic reasoning paths
+Explicit authority boundaries
+Zero implicit execution rights
+Human sovereignty preserved at all layers
+Contrast
+Unlike AGI (capability-centric)
+Unlike agentic AI (action-centric)
+Unlike automation (outcome-centric)
+Coreliptic Intelligence is evidence-centric.
+Living Artifact
+(noun, system form)
+A Living Artifact is a continuously evolving intelligence object whose state, logic, and outputs remain inspectable over time, without autonomous authority.
+A Living Artifact:
+Evolves through commits, not self-modification
+Produces outputs, not actions
+Exists to be examined, not obeyed
+Formal Rule:
+If it cannot be reviewed, it cannot be trusted.
+If it cannot be trusted, it cannot act.
+Trust-Zero AI
+(governance principle)
+An intelligence governance model where no system, model, or agent is trusted by default, regardless of capability.
+All trust must be:
+Declared
+Scoped
+Revocable
+Logged
+Artifact Loop
+(system cycle)
+Observe → Reason → Record → Review → Authorize → Repeat
+No loop completion occurs without a human authorization boundary.
+II. Visual Living Artifact Seal (Specification)
+Seal Name
+Living Artifact — Coreliptic Intelligence
+Design Specification
+Shape: Circular (closed authority boundary)
+Core: Hex or node (reasoning kernel)
+Lines: Monoline, symmetric (traceability)
+No mascots, faces, or symbols of autonomy
+Colorway: Slate / Blue-Gray / White (no black, no gold)
+Inscription Text
+Copy code
+
+CORELIPTIC INTELLIGENCE
+LIVING ARTIFACT
+ADR-0002 • FDF CERTIFIED™
+Usage
+README header
+Landing page hero
+Doctrine PDFs
+Academic slides
+Repo badges
+III. BuzzWorld Landing Page Variant
+(for Coreliptic-Intelligence-Living-Artifact repo)
+Hero Section
+Headline:
+Coreliptic Intelligence — Living Artifact
+Subhead:
+Intelligence you can audit.
+Systems you can trust.
+Badge Row:
+ADR-0002 • Trust-Zero • FDF Certified™
+Section: The Problem
+Modern AI systems:
+Act without traceability
+Accumulate hidden authority
+Collapse review and execution
+This breaks trust.
+Section: The Doctrine
+Coreliptic Intelligence replaces opaque intelligence with:
+Artifact-based reasoning
+Explicit authority
+Human-controlled execution
+No artifact → No action.
+Section: The System
+Living Artifact Architecture
+Deterministic logic
+Versioned intelligence
+Reproducible outputs
+Zero silent execution
+Section: What This Repo Represents
+A formal Living Artifact
+A doctrine-aligned intelligence system
+A reference implementation of ADR-0002
+CTA (Single, Non-Commercial)
+Review the Artifact
+Inspect the Reasoning
+Verify the Doctrine
+IV. ADR-0002 GitHub Doctrine Repo (Structure)
+Repository Name
+Copy code
+
+ADR-0002-Coreliptic-Intelligence
+Purpose
+Canonical doctrine repository.
+No code execution.
+No agents.
+No automation.
+Doctrine only.
+Structure
+Copy code
+
+ADR-0002-Coreliptic-Intelligence/
+│
+├── README.md          ← Public doctrine summary
+├── ADR-0002.md        ← Formal doctrine text
+├── DEFINITIONS.md     ← BuzzTopia dictionary entries
+├── GOVERNANCE.md      ← Authority & trust rules
+├── DIAGRAMS/
+│   └── artifact-loop.svg
+└── LICENSE.md
+README Tagline
+The Doctrine That Separates Intelligence From Authority.
+V. Investor / Academic Framing (Serious, Non-Hype)
+Academic Positioning
+Coreliptic Intelligence introduces a new classification of AI systems:
+Neither AGI nor agentic
+Artifact-governed intelligence
+Designed for auditability, not autonomy
+Relevant to:
+AI governance research
+Safety-critical systems
+Regulated industries
+Public-sector AI
+Academic reproducibility
+Investor Positioning
+This is infrastructure doctrine, not a chatbot.
+Value lies in:
+Trust-preserving AI frameworks
+Compliance-ready intelligence
+Long-term defensibility
+Regulatory alignment
+Enterprise adoption readiness
+This doctrine scales safely because authority does not.
+FINAL LOCK STATEMENT
+✔ BuzzTopia dictionary formalized
+✔ Living Artifact seal specified
+✔ Landing page variant delivered
+✔ ADR-0002 doctrine repo defined
+✔ Investor & academic framing aligned
+Coreliptic Intelligence — Living Artifact
+is now a complete, defensible doctrine, not a concept.

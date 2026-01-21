@@ -2,6 +2,14 @@
 ## Living Artifact Curriculum Module  
 ### BuzzWorld Learning Lab (DDL / EDU-C Center)
 
+BuzzWorld_Learning_Lab/
+└── Coreliptic_Intelligence/
+    ├── README.md                ← module front door (what you’re editing now)
+    ├── curriculum.md            ← full curriculum content (optional next)
+    ├── syllabus.md              ← student-facing version (optional)
+    ├── artifacts.md             ← linked Living Artifacts (optional)
+    └── adr-link.md               ← ADR-0002 relationship (optional)
+
 **Module Name:** Coreliptic Intelligence  
 **Artifact Class:** Living Artifact  
 **Doctrine Binding:** ADR-0002 — Doctrine of Coreliptic Intelligence  
